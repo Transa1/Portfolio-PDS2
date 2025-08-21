@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets/img/Me.jpg"
     },
     {
+      "Id": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/img/alvarito.jpeg",
+      "PackagePath": "staticwebassets/img/alvarito.jpeg"
+    },
+    {
+      "Id": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/img/dotnet.jpg",
+      "PackagePath": "staticwebassets/img/dotnet.jpg"
+    },
+    {
       "Id": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Achjs4VO3/o/omjVovzoiTD3ZGHd3tFDdeuTFnUnGFE=",
+  "Hash": "kudA09vNmYdfb7mTT/c//SadhLB22nbO0RrmxGIf+FY=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -100,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/img/alvarito.jpeg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "img/alvarito.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/alvarito.jpeg"
+    },
+    {
+      "Identity": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/img/dotnet.jpg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "img/dotnet.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/dotnet.jpg"
     },
     {
       "Identity": "/Users/reiko/Projects/Portafolio/Portafolio/wwwroot/img/Me.jpg",

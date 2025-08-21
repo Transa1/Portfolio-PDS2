@@ -21,3 +21,31 @@
 #imagen-logonet{
     width: 500px;
 }
+
+.cabecera{
+    font-weight: bold;
+}
+
+.margin-hero{
+    margin-top: -8rem;
+}
+
+.left-card-hero{
+    border-radius: 1rem 0 0 1rem;
+    box-shadow: 0 0.4rem 0.4rem 0 gray;
+}
+
+.right-card-hero{
+    border-radius: 0 1rem 1rem 0;
+    box-shadow: 0 0.4rem 0.4rem 0 gray;
+}
+
+.habilidades ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades i{
+    color: #0D6EFD;
+    font-size: 3rem;
+}
